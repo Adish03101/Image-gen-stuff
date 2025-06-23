@@ -1,0 +1,13 @@
+langgraph
+langchain
+diffusers[torch]
+transformers
+torch
+accelerate
+ftfy
+pyarrow>=9.0.0,<10.0.0
+google-genai
+langchain-community
+langchain-text-splitters
+python-dotenv
+pandas
